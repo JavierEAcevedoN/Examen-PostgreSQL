@@ -1,46 +1,32 @@
 # Examen-PostgreSQL 🚀
 ## Tabla de contenidos 📚
 - [Descripcion](#descripcion)
-- [Proceso](#proceso)
 - [Caracteristicas](#caracteristicas)
 - [Tecnologias](#tecnologias)
 - [Instalacion](#instalacion)
-- [Screenshots](#screenshots)
 - [Uso](#uso)
 - [Autor](#autor)
 - [Contacto](#contacto)
 <h3 id="descripcion">Descripcion 📖</h3>
 
 Examen de PostgreSQL
-<h3 id="proceso">Proceso 📋</h3>
 
-El proceso para hacer el proyecto fue:
-1. 1.
-2. 2.
-3. 3.
-4. 4.
-5. 5.
 <h3 id="caracteristicas">Caracteristicas 💡</h3>
 
-{Caracteristicas}
+Se utilizo PostgreSQL y Dbeaver.
 <h3 id="tecnologias">Tecnologias 💻</h3>
 
-- {nombre}: {dsecripcion}
-- {nombre}: {dsecripcion}
-- {nombre}: {dsecripcion}
+- PostgreSQL: Base de datos
+- Dbeaver: Ejecucion de sql.
 <h3 id="instalacion">Instalacion 💾</h3>
 
 Clonar repositorio:
 ```sh
-link del repositorio
+https://github.com/JavierEAcevedoN/Examen-PostgreSQL.git
 ```
-<h3 id="screenshots">Screenshots 📷</h3>
-
-![Screenshot](./img/Screenshot.img)  
-{descripcion opcional}
 <h3 id="uso">Uso ✋</h3>
 
-{uso}
+ejecutar los archivos ddl, dml y sql.
 <h3 id="autor">Autor 👤</h3>
 
 - [JavierEAcevedoN](https://github.com/JavierEAcevedoN)
